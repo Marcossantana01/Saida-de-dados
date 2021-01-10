@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.AssemblyInfo.cs
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.exe
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.deps.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.runtimeconfig.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.runtimeconfig.dev.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.dll
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\bin\Debug\netcoreapp3.1\Saida de dados.pdb
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.dll
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.pdb
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Entrada e saida de dados\Saida de dados\Saida de dados\obj\Debug\netcoreapp3.1\Saida de dados.genruntimeconfig.cache
